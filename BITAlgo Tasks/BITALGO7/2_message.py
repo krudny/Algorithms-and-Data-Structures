@@ -1,5 +1,5 @@
 #Otrzymujemy na wejściu pary ludzi, którzy sie znają. Pierwszego dnia osoba 0 przekazuje wiadomość wsyzstkim swoim znajomym. 
-#Napisz algorytm który zwróci dzień w którym najwięcej osób dostało wiadomość oraz ilość tych osób
+#Napisz algorytm który zwróci dzień w którym najwięcej osób dostało wiadomość oraz ilość tych osób.
 
 E = [(22, 21), (21, 17), (20, 17), (16, 17), (16, 19), (16, 18), (16, 0), (0, 1), (1, 2), (2, 3),
      (3, 4), (4, 5), (5, 0), (5, 6), (6, 7), (7, 8), (8, 0), (7, 9), (9, 10), (10, 11), (10, 12),
